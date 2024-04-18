@@ -1,0 +1,7 @@
+Rock_9.001
+Roufhness
+0.5
+Metallic
+0.04
+MaterialID
+5

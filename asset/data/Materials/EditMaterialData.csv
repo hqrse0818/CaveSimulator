@@ -1,0 +1,17 @@
+exp,meshname,MaterialID,AlbedoR,AlbedoG,AlbedoB,AlbedoA,EmissionR,EmissionG,EmissionB,EmissionA,Metallic,Roufhness,MicroFacet,Shinness,FacetBlend,PhotoReal
+type,char,uint,float,float,float,float,float,float,float,float,float,float,float,float,float,float
+data,BaseMaterial,0,1,1,1,1,0,0,0,1,0.04,0.5,0,1,0
+data,StalagmiteAmesh01.005,1,0.8,0.8,0.8,1,0,0,0,1,0.04,0.877,0.844,0.25,0
+data,CaveArchArch Small.001,2,0.8,0.8,0.8,1,0,0,0,1,0.113,0.563,0.693,0,0
+data,CrystalMainメッシュ.042,3,0.8,0.8,0.8,1,0.0215561,0.110127,0.209302,1,0.673,0.298,0.068,4.303,0.697
+data,RockAメッシュ.019,4,0.5,0.5,0.5,1,0,0,0,1,0.04,0.552786,0.75,0.25,0
+data,RockBRock_9.001,5,0.8,0.8,0.8,1,0,0,0,1,0.04,0.5,0.75,0.25,0
+data,RockCRock_7.002,6,0.8,0.8,0.8,1,0,0,0,1,0.04,0.5,0.75,0.25,0
+data,RockDRock_2.001,7,0.8,0.8,0.8,1,0,0,0,1,0.04,0.5,0.75,0.25,0
+data,ShortBottomStalagmite - Short 2.001,8,0.8,0.8,0.8,1,0,0,0,1,0.04,0.5,0.75,0.25,0
+data,MedBottomStalagmite - Medium 2.002,9,0.8,0.8,0.8,1,0,0,0,1,0.04,0.94,0.569,0.81,0
+data,TallBottomStalagmite - Tall 2.003,10,0.8,0.8,0.8,1,0,0,0,1,0.084,0.913,0.382,0.088,0
+data,MedTopStalagtite - Medium0.002,11,0.8,0.8,0.8,1,0,0,0,1,0.072,0.833,0.78,1.706,0
+data,Cube立方体,12,1,1,1,1,1,1,1,1,0.99,0.205,1,0.25,0
+data,Sphere球,13,0.8,0.8,0.8,1,0,0,0,1,0.04,0.5,0.75,0.25,0
+data,Ground平面,14,0.202532,0.202532,0.202532,1,0,0,0,1,0.003,0.885,1,1.48,0

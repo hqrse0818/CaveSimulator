@@ -1,0 +1,7 @@
+1_1.003
+Roufhness
+0.5
+Metallic
+0.04
+MaterialID
+12

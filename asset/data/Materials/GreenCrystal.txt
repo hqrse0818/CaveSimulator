@@ -1,0 +1,7 @@
+メッシュ.042
+Roufhness
+0.434315
+Metallic
+0.04
+MaterialID
+3

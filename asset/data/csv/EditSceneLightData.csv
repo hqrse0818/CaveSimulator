@@ -1,0 +1,8 @@
+exp,PosX,PosY,PosZ,DirX,DirY,DirZ,DiffuseR,DiffuseG,DiffuseB,LPower,AmbientR,AmbientG,AmbientB,AmbientA,BaseR,BaseG,BaseB,BaseA
+type,float,float,flat,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float
+Directional,0,0,0,0.363696,0.727393,-0.581914,0.3,0.3,0.3,1,0.2,0.2,0.2,0,0,0
+exp,Posx,Posy,Posz,Range,R,G,B,LightPower
+type,float,float,float,float,float,float,float,float
+Point,0,0,0,1000,0.621019,0.227443,0.227443,20
+exp,PosX,PosY,PosZ,R,G,B,LightPower,Range,DirX,DirY,DirZ,Angle
+type,float,float,float,float,float,float,float,float,float,float,float

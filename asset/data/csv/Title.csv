@@ -1,0 +1,11 @@
+exp,ModelName,ObjectName,Posx,Posy,Posz,Rotx,Roty,Rotz,Scax,Scay,Scaz
+type,char,char,float,float,float,float,float,float,float,float,float
+data,PBRArch,Arch1,3,0,-1,0,1,0,1,1,1
+data,GreenCrystal,GreenCrystal1,1.85,0,-3.75,1.8,0,0,1,1,1
+data,GreenCrystal,GreenCrystal2,1,0,0,1.8,0,-1,1,1,1
+data,GreenCrystal,GreenCrystal3,-2,0,0,1.8,0,1,1,1,1
+data,TallBottomRock,TallBottom1,-3,0,-3.5,1.8,0,0.7,1,1,1
+data,MediumBottomRock,MediumBottom1,2,0,-2,1.8,0,0,1,1,1
+data,PBRStalagmiteA,Stalagmite1,5,0,2,1.8,0,1.1,1,1,1
+data,PBRStalagmiteA,Stalagmite2,-2,0,-2.5,1.8,0,0,0.5,0.5,0.5
+data,PBRArch,Arch2,-3,0,0,0,2,0,0.5,0.5,0.5

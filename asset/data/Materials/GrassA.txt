@@ -1,0 +1,7 @@
+allGrass_001.006
+Roufhness
+1
+Metallic
+0.04
+MaterialID
+13

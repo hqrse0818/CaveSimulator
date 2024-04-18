@@ -1,0 +1,6 @@
+exp,FileName,ModelName,TextureName
+type,char,char,char
+data,asset\model\RocksA\MedTop.fbx,MedTop,MedTop
+data,asset\model\Cube\Cube.fbx,Cube,Cube
+data,asset\model\Sphere\Sphere.fbx,Sphere,Sphere
+data,asset\model\Ground\Ground.fbx,Ground,Ground
